@@ -15,7 +15,7 @@ Moreover, there are files about:
 
 **Thesis Document**: The .pdf of my thesis in which everything about the project is explained.
 
-**Video Demonstration**: A link to a short YouTube video providing a presentation of the system and an explanation of the circuit design. ([![Watch the video](https://img.youtube.com/vi/https://youtu.be/wcnZShP9BXc/maxresdefault.jpg)](https://www.youtube.com/watch?v=https://youtu.be/wcnZShP9BXc))
+**Video Demonstration**: A link to a short YouTube video providing a presentation of the system and an explanation of the circuit design (https://youtu.be/wcnZShP9BXc).
 
 
 
