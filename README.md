@@ -15,8 +15,8 @@ Moreover, there are files about:
 
 **Thesis Document**: The .pdf of my thesis in which everything about the project is explained.
 
-**Video Demonstration**: A link containing a link to a short Youtube video that explains the hardware and presents the final construction
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+**Video Demonstration**: A link to a short YouTube video providing a presentation of the system and an explanation of the circuit design. ([![Watch the video](https://img.youtube.com/vi/https://youtu.be/wcnZShP9BXc/maxresdefault.jpg)](https://www.youtube.com/watch?v=https://youtu.be/wcnZShP9BXc))
+
 
 
 Developed as a university thesis project for the Department of industrial and Management Engineering at the International Hellenic University (IHU).
