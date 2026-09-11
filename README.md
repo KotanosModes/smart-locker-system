@@ -15,7 +15,7 @@ Moreover, there are files about:
 
 **Thesis Document**: The .pdf of my thesis in which everything about the project is explained.
 
-**Video Demonstration**: A release containing a link to a short Youtube video that explains the hardware and presents the final construction.
+**Video Demonstration**: A link containing a link to a short Youtube video that explains the hardware and presents the final construction.
 
 
 Developed as a university thesis project for the Department of industrial and Management Engineering at the International Hellenic University (IHU).
